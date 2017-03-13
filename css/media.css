@@ -1,0 +1,657 @@
+/*==========  Desktop First Method  ==========*/
+
+/* Large Devices, Wide Screens */
+@media only screen and (max-width : 1366px) {
+		.application .line {
+
+    margin-top: 30.3%;
+
+	}
+	.onehub-text {
+	    width: 73%;
+
+	}
+	.order button{
+		margin-bottom: 70px;
+	}
+	.order .ring-button {
+    margin-bottom: 28px;
+}
+}
+@media only screen and (max-width : 1280px) {
+
+	.onehub-text{
+		width: 69%;
+	}
+}
+
+@media only screen and (max-width : 1200px) {
+	
+
+}
+
+/* Medium Devices, Desktops */
+@media only screen and (max-width : 1024px) {
+	header h1{
+		font-size: 40px;
+	}
+	header p{
+		margin-right: 20px;
+	}
+	header h1 span {
+    font-size: 57px;
+
+}
+	.item-wrap .item{
+		margin: 5px;
+	}
+	.application .purple-section .purple-section-descr h2{
+		font-size: 36px;
+	}
+	.tabs .clocks .clock-icon{
+		margin: 14px 21px 0 14px;
+	}
+	.tabs .clocks .colck-text{
+		margin-right: 25px;
+	}
+	.tabs .diamands .diamand-icon{
+		margin: 17px 17px 0 14px;
+	}
+	.tab_item .type-of-goods .type-text{
+		font-size: 31px;
+	}
+	.tab_item .type-of-goods{
+		margin: 64px 0 43px 54px
+	}
+	.onehub-text h3{
+		margin-bottom: 31px;
+		margin-top: 21px;
+	}
+	.onehub-text p {
+    font-size: 14px;
+
+	}
+	.order {
+    max-width: 429px;
+	}
+	.order input.phone {
+    width: 71%;
+    margin-top: 20px;
+    margin-left: 42px;
+	}
+	.order input{
+		font-size: 13px;
+	}
+	.order input.email {
+    width: 98%;
+    margin: 20px 0 20px 6px;
+	}
+	.order button{
+		margin-bottom: 43px;
+	}
+	.order .nice-select.stone {
+  
+    margin-top: 17px;
+    
+	}
+	.order input.year.weight {
+    margin: 17px 0 15px 6px;
+	}
+	.image-item img {
+    vertical-align: middle;
+    width: 100%;
+    border-radius: 3px;
+}
+.image-wrap .image-item {
+    height: 89px;
+    width: 89px;
+    margin: 13px 8px;
+}
+.order button{
+	margin-bottom: 78px;
+}
+.order .ring-button {
+    margin-bottom: 68px;
+}
+footer .footer-wrap .copy {
+
+    margin-right: 51px;
+}
+}
+
+@media only screen and (max-width : 980px) {
+	header h1 {
+	    font-size: 33px;
+	}
+	header h1 span {
+    font-size: 52px;
+	}
+	header p {
+    margin-right: 86px;
+}
+header nav ul li {
+    margin: 0px 10px;
+}
+	.application .purple-section .purple-section-descr h2{
+		margin-right: 95px;
+	}
+	.tabs .clocks .colck-text {
+    margin-right: 17px;
+	}
+	.tabs .tab {
+    margin-right: 10px;
+
+	}
+	.application .line{
+		display: none;
+	}
+	.item .item-price{
+		left: 30%;
+	}
+
+}
+
+@media only screen and (max-width : 960px) {
+	
+
+	
+}
+
+/* Small Devices, Tablets */
+@media only screen and (max-width : 800px) {
+	header nav {
+
+    margin-right: 0px;
+	}
+	header nav ul li {
+
+    margin: 0px 10px;
+	}
+	.contacts {
+    margin-top: 64px;
+	}
+	header h1 {
+    font-size: 30px;
+	}
+	header h1 span {
+    font-size: 38px;
+	}
+	header p {
+    margin-right: 38px;
+	}
+	header .header-button{
+		margin-right: 41px;
+	}
+	.resent-wrap h3{
+		font-size: 28px;
+	}
+	.tab_item .circle{
+		display: none;
+	}
+	.white-section{
+		display: block;
+		width: 100%;
+		margin-top: 2px;
+	}
+	.application .purple-section{
+		display: block;
+		width: 100%;
+	}
+	.application .purple-section .purple-section-descr h2 {
+    margin-right: 0px;
+    text-align: center;
+    
+ }
+	 .application .purple-section .purple-section-descr {
+	    position: relative;
+	    float: none;
+	}
+	.application .purple-section .purple-section-descr p {
+	   margin-left: 0px;
+	   text-align: center;
+	}
+	.tabs{
+		margin-right: 186px;
+	}
+	.tab_item .type-of-goods {
+    margin: 64px 0 43px 188px;
+	}
+	.order {
+
+    margin-left: 182px;
+
+	}
+	.order button{
+		margin-left: 24%;
+	}
+	.item .item-descr p {
+
+    font-size: 12px;
+
+}
+.item .item-price {
+    position: absolute;
+    bottom: -6.5%;
+    left: 25.3%;
+    background-color: #a4236e;
+    text-align: center;
+    height: 26px;
+    width: 88px;
+    line-height: 29px;
+    font-size: 14px;
+    line-height: 29px;
+    z-index: 10;
+    border-radius: 4px;
+    letter-spacing: 1px;
+}
+}
+@media only screen and (max-width : 768px) {
+	.item .item-descr p {
+    margin: 0;
+    font-size: 12px;
+
+
+}
+	.tabs {
+    margin-right: 160px;
+	}
+
+	header .header-button {
+    margin-right: 13px;
+}
+header p {
+    margin-right: 13px;
+}
+
+
+
+
+}
+@media only screen and (max-width : 767px) {
+header .nice-select{
+	margin-right: 115px;
+}
+
+.hidden-mnu ul li {
+    display: inline-block;
+    margin-left: 0;
+}
+.hidden-mnu {
+    margin-top: 45px;
+    margin-right: 77px;
+}
+
+
+	
+
+}
+
+@media only screen and (max-width : 725px) {
+
+.hidden-mnu {
+    margin-top: 105px;
+    margin-right: 77px;
+}
+
+	.hidden-mnu ul li {
+    display: block;
+    margin-left: 0;
+}
+.hidden-mnu {
+    margin-top: 20px;
+    margin-left: 50px;
+    margin-right: 0;
+    float: left;
+}
+
+header .nice-select {
+    margin-right: 66px;
+}
+
+}
+
+@media only screen and (max-width : 500px) {
+.hidden-mnu {
+    margin-top: 83px;
+    margin-left: 69px;
+    margin-right: 0;
+    float: left;
+}
+
+
+header .nice-select {
+    margin-right: 66px;
+}
+
+}
+/* Extra Small Devices, Phones */
+@media only screen and (max-width : 480px) {
+	.toggle_mnu{
+		right: -63px;
+	}
+	.header-wrap .logo a {
+
+    font-size: 51px;
+
+	}
+	header nav ul li {
+    margin: 0;
+    display: block;
+    text-align: center;
+	}
+	header nav {
+    float: none;
+		margin: 28px 38px 0 0;
+
+	}
+	header .nice-select{
+		margin-top: 60px;
+	}
+	.contacts{
+		margin-left: 0;
+		font-size: 16px;
+		margin-top: 35px;
+	}
+	.contacts .email .icon-email {
+    float: left;
+    width: 14px;
+    height: 10px;
+    background-image: url("../img/mail.png");
+    background-position: 0px 0;
+    z-index: 10;
+}
+header h1 {
+    font-size: 14px;
+    margin-left: 34px;
+    line-height: 25px;
+}
+header h1 span {
+    font-size: 22px;
+}
+header p {
+    float: right;
+    text-transform: uppercase;
+    font-size: 13px;
+    margin-top: 0;
+    margin-right: 0px;
+    letter-spacing: 1.1px;
+}
+header .header-button {
+
+    font-size: 13px;
+    line-height: 45px;
+    margin-right: 0px;
+    margin-top: 0px;
+    padding: 0px 18px;
+    margin-bottom: 144px;
+}
+.resent-wrap h3 {
+    top: -14%;
+    font-size: 18px;
+    letter-spacing: 1.15px;
+
+}
+.item-wrap{
+	display: block;
+}
+.item-wrap .item {
+   	max-width: 47%;
+    position: relative;
+    cursor: pointer;
+    float: left;
+    margin: 10px 5px;
+}
+.tabs {
+    margin-right: 20px;
+}
+.item .item-descr p {
+    font-size: 14px;
+    line-height: 20px;
+    letter-spacing: 0.9px;
+}
+.item .item-price{
+	left: 28.3%;
+}
+.tab_item .type-of-goods {
+  margin: 38px 0 24px 14px;
+}
+.order {
+    margin-left: 10px;
+}
+.image-wrap .image-item.empty .fa {
+    top: 28%;
+    left: 26%;
+}
+.onehub .onehub-text h3 {
+    font-size: 30px;
+    font-weight: normal;
+    letter-spacing: 1.6px;
+    margin-bottom: 20px;
+    margin-top: 27px;
+}
+}
+
+/* Custom, iPhone Retina */
+
+@media only screen and (max-width : 360px) {
+	.toggle_mnu {
+    right: -50px;
+}
+	.item .item-descr p{
+		font-size: 11px;
+		line-height: 16px;
+		letter-spacing: 0px;
+	}
+	.item .item-price {
+    left: 20.3%;
+}
+.resent-wrap h3 {
+    top: -14%;
+    font-size: 14px;
+    letter-spacing: 1.15px;
+}
+	 
+	header nav {
+
+    margin: 107px 38px 0 0;
+}
+.contacts .phone {
+    margin-left: 68px;
+}
+.contacts .email {
+    margin-left: 67px;
+
+}
+header h1{
+	line-height: 26px;
+	margin-left: 58px;
+	margin-top: 40px;
+}
+header p {
+    float: right;
+    text-transform: uppercase;
+    font-size: 12px;
+    margin-top: 24px;
+    margin-right: 0px;
+    letter-spacing: 1.1px;
+}
+
+.item-wrap .item{
+    max-width: 150px;
+    margin: 10px 5px;
+}
+.item-wrap{
+	margin-left: 18px;
+}
+.application .purple-section .purple-section-descr h2 {
+    font-size: 30px;
+}
+.tabs .diamands .diamand-icon {
+    margin: 17px 10px 0 10px;
+}
+.tabs .diamands .diamand-text {
+    margin-top: 3px;
+    margin-right: 10px;
+    letter-spacing: 1px;
+    font-size: 13px;
+}
+.tabs {
+    font-size: 13px;
+    margin-right: 0;
+
+}
+.onehub-text {
+    width: 96%;
+    margin-right: 0;
+}
+.onehub-text p {
+    font-size: 13px;
+    margin-bottom: 9px;
+}
+.order {
+    max-width: 315px;
+}
+.order input.phone {
+    width: 172%;
+    margin-top: 20px;
+    margin-left: 57px;
+}
+.order input.email {
+    width: 199%;
+    margin: 20px 0 20px 0px;
+}
+.image-wrap .image-item {
+    height: 62px;
+    width: 62px;
+    margin: 13px 8px;
+}
+.image-wrap .image-item {
+    height: 62px;
+    width: 62px;
+    margin: 13px 8px;
+}
+.image-wrap .image-item.empty .fa {
+
+    font-size: 28px;
+
+
+}
+
+.order button {
+    margin-left: 13%;
+}
+
+footer .footer-wrap .logo {
+    margin-left: 5px;
+
+}
+footer .footer-wrap .copy {
+    margin-right: 0px;
+}
+footer .footer-wrap .copy p {
+ 
+    font-size: 11px;
+  
+}
+.hidden-mnu{
+	margin-left: 45px;
+}
+
+}
+
+
+
+@media only screen and (max-width : 320px) {
+	
+.header-wrap .logo {
+    margin-left: 0px;
+    margin-top: 56px;
+}
+.resent-wrap h3 {
+    top: -14%;
+    font-size: 13px;
+    letter-spacing: 1.15px;
+}
+.item-wrap {
+    margin-left: 0px;
+}
+.item .item-descr p {
+    font-size: 10px;
+    line-height: 20px;
+    letter-spacing: 0.9px;
+}
+.item .item-price {
+    position: absolute;
+    bottom: -7.5%;
+    left: 23.3%;
+    background-color: #a4236e;
+    text-align: center;
+    height: 26px;
+    width: 81px;
+    line-height: 29px;
+    font-size: 14px;
+    line-height: 29px;
+    z-index: 10;
+    border-radius: 4px;
+    letter-spacing: 1px;
+}
+.application .purple-section .purple-section-descr h2 {
+    font-size: 28px;
+}
+.tabs .clocks .clock-icon {
+    margin: 14px 10px 0 10px;
+}
+.tabs .clocks .colck-text {
+    margin-right: 10px;
+}
+.tabs .diamands .diamand-icon {
+    margin: 17px 5px 0 5px;
+}
+.onehub-text h3 {
+    font-size: 30px;
+    font-weight: normal;
+    letter-spacing: 1.6px;
+    margin-bottom: 46px;
+    margin-top: 99px;
+}
+footer .footer-wrap .logo a {
+    font-size: 30px;
+    text-transform: uppercase;
+    font-family: "PTSans-Bold", sans-serif;
+    letter-spacing: 1px;
+}
+.tab_item .type-of-goods .type-text {
+    font-size: 26px;
+}
+.hidden-mnu {
+    margin-left: 30px;
+}
+}
+
+
+/*==========  Mobile First Method  ==========*/
+
+/* Custom, iPhone Retina */
+@media only screen and (min-width : 320px) {
+
+}
+
+/* Extra Small Devices, Phones */
+@media only screen and (min-width : 480px) {
+
+}
+
+/* Small Devices, Tablets */
+@media only screen and (min-width : 768px) {
+
+}
+
+/* Medium Devices, Desktops */
+@media only screen and (min-width : 992px) {
+
+}
+
+/* Large Devices, Wide Screens */
+@media only screen and (min-width : 1200px) {
+
+}
